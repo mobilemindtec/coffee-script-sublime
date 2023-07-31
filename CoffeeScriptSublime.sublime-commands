@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "CoffeeScriptSublime format",
+        "command": "coffee_format"
+    }
+]
