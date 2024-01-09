@@ -1,0 +1,209 @@
+{
+  "arrow_spacing": {
+    "type": "style",
+    "level": "warn"
+  },
+  "braces_spacing": {
+    "type": "style",
+    "level": "warn",
+    "spaces": 0,
+    "empty_object_spaces": 0
+  },
+  "bracket_spacing": {
+    "type": "style",
+    "level": "warn",
+    "spaces": 0,
+    "empty_array_spaces": 0,
+    "exceptions": []
+  },
+  "camel_case_classes": {
+    "type": "style",
+    "level": "error"
+  },
+  "coffeescript_error": {
+    "level": "error"
+  },
+  "colon_assignment_spacing": {
+    "type": "style",
+    "level": "warn",
+    "spacing": {
+      "left": 0,
+      "right": 0
+    }
+  },
+  "cyclomatic_complexity": {
+    "type": "problem",
+    "level": "warn",
+    "value": 10
+  },
+  "duplicate_key": {
+    "type": "problem",
+    "level": "error"
+  },
+  "empty_constructor_needs_parens": {
+    "type": "style",
+    "level": "warn"
+  },
+  "ensure_comprehensions": {
+    "type": "style",
+    "level": "warn"
+  },
+  "eol_last": {
+    "type": "style",
+    "level": "warn"
+  },
+  "indentation": {
+    "type": "problem",
+    "value": 2,
+    "level": "error"
+  },
+  "line_endings": {
+    "type": "problem",
+    "level": "warn",
+    "value": "unix"
+  },
+  "max_line_length": {
+    "type": "style",
+    "value": 0,
+    "level": "error",
+    "limitComments": true
+  },
+  "missing_fat_arrows": {
+    "type": "problem",
+    "level": "warn",
+    "is_strict": false
+  },
+  "missing_parseint_radix": {
+    "type": "problem",
+    "level": "warn"
+  },
+  "newlines_after_classes": {
+    "type": "style",
+    "value": 3,
+    "level": "warn"
+  },
+  "no_backticks": {
+    "type": "problem",
+    "level": "error"
+  },
+  "no_debugger": {
+    "type": "problem",
+    "level": "warn",
+    "console": false
+  },
+  "no_empty_functions": {
+    "type": "problem",
+    "level": "warn"
+  },
+  "no_empty_param_list": {
+    "type": "style",
+    "level": "warn"
+  },
+  "no_implicit_braces": {
+    "type": "style",
+    "level": "warn",
+    "strict": true
+  },
+  "no_implicit_parens": {
+    "type": "style",
+    "level": "warn",
+    "strict": true
+  },
+  "no_interpolation_in_single_quotes": {
+    "type": "problem",
+    "level": "warn"
+  },
+  "no_nested_string_interpolation": {
+    "type": "problem",
+    "level": "warn"
+  },
+  "no_plusplus": {
+    "type": "style",
+    "level": "warn"
+  },
+  "no_private_function_fat_arrows": {
+    "type": "style",
+    "level": "warn"
+  },
+  "no_spaces": {
+    "type": "style",
+    "level": "warn"
+  },
+  "no_stand_alone_at": {
+    "type": "style",
+    "level": "warn"
+  },
+  "no_tabs": {
+    "type": "style",
+    "level": "error"
+  },
+  "no_this": {
+    "type": "style",
+    "level": "warn"
+  },
+  "no_throwing_strings": {
+    "type": "problem",
+    "level": "error"
+  },
+  "no_trailing_semicolons": {
+    "type": "style",
+    "level": "error"
+  },
+  "no_trailing_whitespace": {
+    "type": "style",
+    "level": "ignore",
+    "allowed_in_comments": false,
+    "allowed_in_empty_lines": true
+  },
+  "no_unnecessary_double_quotes": {
+    "type": "style",
+    "level": "warn"
+  },
+  "no_unnecessary_fat_arrows": {
+    "type": "style",
+    "level": "warn"
+  },
+  "non_empty_constructor_needs_parens": {
+    "type": "style",
+    "level": "warn"
+  },
+  "object_shorthand": {
+    "type": "style",
+    "level": "warn"
+  },
+  "prefer_english_operator": {
+    "type": "style",
+    "level": "warn",
+    "doubleNotLevel": "warn",
+    "ops": [
+      "and",
+      "or",
+      "not",
+      "is",
+      "isnt"
+    ]
+  },
+  "prefer_fat_arrows_in_methods": {
+    "type": "style",
+    "level": "warn"
+  },
+  "prefer_logical_operator": {
+    "type": "style",
+    "level": "warn",
+    "doubleNotLevel": "warn"
+  },
+  "space_operators": {
+    "type": "style",
+    "level": "warn",
+    "default_parameters": true
+  },
+  "spacing_after_comma": {
+    "type": "style",
+    "level": "warn",
+    "warn_elision": false
+  },
+  "transform_messes_up_line_numbers": {
+    "type": "style",
+    "level": "warn"
+  }
+}
